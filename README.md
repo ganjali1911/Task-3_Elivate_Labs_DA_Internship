@@ -105,6 +105,6 @@ I used practical SQL concepts such as joins, filtering, aggregation, views, and 
 This task strengthened my understanding of how databases are used in real-world data analyst roles and how SQL plays an essential role in cleaning and analyzing structured data.
 
 ## Author
-
-**Anjali Gupta**
+**Anjali Gupta**  
 Data Analyst Intern
+
