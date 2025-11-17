@@ -96,7 +96,6 @@ Verified all indexes using SHOW INDEXES.
 - Dataset: shipping_ecommerce.csv
 - Output screenshots: TASK 3_DA_INTERNSHIP_ELIVATE LABS_Screenshots.pdf
 - Documentation: README.md
-- Interview_Questions.md 
 
 ## Summary
 
